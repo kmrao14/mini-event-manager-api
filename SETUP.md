@@ -1,18 +1,13 @@
-## GraphQL API (Node.js + Apollo Server)
+# GraphQL API (Node.js + Apollo Server)
 
-```md
-# GraphQL API Server Setup (Apollo Server + In-Memory Storage)
+## GraphQL API Server Setup (Apollo Server + In-Memory Storage)
 
 GraphQL API server built with Apollo Server and Node.js. It uses in-memory storage.
-
----
 
 ## Requirements
 
 - Node.js 18+ (recommended 20.17.0)
 - npm or yarn
-
----
 
 ## Installation
 
