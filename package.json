@@ -1,0 +1,23 @@
+{
+  "name": "mini-event-manager-graphql",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Mukunda",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@graphql-tools/merge": "^9.0.24",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.11.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
