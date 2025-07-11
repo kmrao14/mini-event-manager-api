@@ -1,6 +1,3 @@
-
----
-
 ## GraphQL API (Node.js + Apollo Server)
 
 ```md
