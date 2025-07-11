@@ -2,6 +2,7 @@ import { mergeTypeDefs } from '@graphql-tools/merge';
 import { mergeResolvers } from '@graphql-tools/merge';
 
 // Manually import all feature modules
+// TODO: Automate this import using file system
 import eventTypeDefs from './features/event/typeDefs.js';
 import eventResolvers from './features/event/resolvers.js';
 
